@@ -1,0 +1,19 @@
+After installing all the packages with the mentioned versions in requirements.txt the running pattern is mentioned below.
+
+1. Run the RunMaster file
+
+2. Run the RunDetect file
+
+3. Run the RunTracker file
+
+4. Run the RunCrash file
+
+5. Run the RunGui file
+
+6. Run the RunCamera File
+
+Note 1:- All the mentioned files must be executed simultaneously using shells in the command prompt.
+
+Note 2:- Use the Python version 8 or less.(Higher versions are not supported)
+
+Note 3:- The application works on a conda virtual environment and Python virtual environment.
